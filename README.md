@@ -54,27 +54,9 @@ A Chrome extension that monitors RSS feeds, detects new articles, generates conc
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [YouTube & TikTok AI Clip Generator](https://github.com/mouhamed1slem-bouazizi/youtyout)
-
-A Python desktop workflow for turning long videos into shorter clips with transcription, metadata generation, subtitles, and optional local AI support.
-
-`Python` `MoviePy` `Gemini` `Whisper` `Ollama`
-
-</td>
-<td width="50%" valign="top">
-
-### [Gaming X Auto Post](https://github.com/mouhamed1slem-bouazizi/chrome-extension-x-autopost)
-
-A browser extension for collecting gaming news from RSS feeds, generating post drafts with AI, and managing a publishing schedule.
-
-`JavaScript` `Chrome Extension` `RSS` `OpenAI API`
-
-</td>
-</tr>
 </table>
+
+Other work includes JobXAI, an AI-assisted workflow for requirement extraction, candidate-job fit scoring, and CV preparation, plus multi-step content operations supporting eight YouTube channels. Those workflows are private because they contain personal or operational data.
 
 ## Tools I use
 
