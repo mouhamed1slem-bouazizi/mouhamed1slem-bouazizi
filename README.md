@@ -54,6 +54,17 @@ A Chrome extension that monitors RSS feeds, detects new articles, generates conc
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Tracket](https://github.com/mouhamed1slem-bouazizi/Tracket)
+
+A native macOS shipping companion for AI-assisted developers. Tracket discovers projects from coding tools and cloud platforms, monitors development progress from the menu bar, estimates completion, and keeps unfinished prototypes moving toward deployment.
+
+`Swift` `SwiftUI` `macOS` `OAuth 2.0` `MCP` `GitHub` `OpenAI`
+
+</td>
+</tr>
 </table>
 
 Other work includes JobXAI, an AI-assisted workflow for requirement extraction, candidate-job fit scoring, and CV preparation, plus multi-step content operations supporting eight YouTube channels. Those workflows are private because they contain personal or operational data.
@@ -72,6 +83,7 @@ Other work includes JobXAI, an AI-assisted workflow for requirement extraction, 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
 ## How I approach a project
